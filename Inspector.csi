@@ -1,0 +1,88 @@
+[History]
+1=#P0#=mb	#P1#=ShareEnum502	#P2#=Inspector/mNetShare/ShareEnum502	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140817005324	#P7#=0	#P8#=15	.
+2=#P0#=mb	#P1#=EnumSharedFolders2	#P2#=Inspector/mNetShare/EnumSharedFolders2	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140817004459	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=tvwFeatures_NodeClick	#P2#=Inspector/MDIMain/tvwFeatures_NodeClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140817010542	#P7#=0	#P8#=10	.
+4=#P0#=mb	#P1#=psubShareEnum	#P2#=Inspector/frmSharedFolders/psubShareEnum	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140817004610	#P7#=0	#P8#=10	.
+5=#P0#=mb	#P1#=GenerateReport	#P2#=Inspector/modExport/GenerateReport	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140817003257	#P7#=0	#P8#=152	.
+6=#P0#=mb	#P1#=Fill_Rank	#P2#=Inspector/modUserDetails/Fill_Rank	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813050915	#P7#=0	#P8#=25	.
+7=#P0#=mb	#P1#=fraExit_Click	#P2#=Inspector/MDIMain/fraExit_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813043154	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=GetAVState	#P2#=Inspector/swSecurityProducts/GetAVState	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813042747	#P7#=0	#P8#=21	.
+9=#P0#=mb	#P1#=MDIForm_Load	#P2#=Inspector/MDIMain/MDIForm_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813035253	#P7#=0	#P8#=14	.
+10=#P0#=mb	#P1#=TV_NodeClick	#P2#=Inspector/frmDeviceManager/TV_NodeClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813024522	#P7#=0	#P8#=21	.
+11=#P0#=mb	#P1#=FillComputerDetails	#P2#=Inspector/modDeviceManagerHelper/FillComputerDetails	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813024216	#P7#=0	#P8#=37	.
+12=#P0#=mb	#P1#=FillDeviceDetails	#P2#=Inspector/modDeviceManagerHelper/FillDeviceDetails	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813023828	#P7#=0	#P8#=75	.
+13=#P0#=mb	#P1#=Form_Activate	#P2#=Inspector/frmDeviceManager/Form_Activate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813023138	#P7#=0	#P8#=1	.
+14=#P0#=mb	#P1#=Command3_Click	#P2#=Inspector/frmGroupMembers/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813022927	#P7#=0	#P8#=5	.
+15=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmGroupMembers/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813022703	#P7#=0	#P8#=11	.
+16=#P0#=mb	#P1#=FillHardwareList	#P2#=Inspector/frmHardware/FillHardwareList	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813022320	#P7#=0	#P8#=19	.
+17=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmHardware/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813021742	#P7#=0	#P8#=6	.
+18=#P0#=mb	#P1#=SaveChanges	#P2#=Inspector/frmLocalUsers/SaveChanges	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813021516	#P7#=0	#P8#=26	.
+19=#P0#=mb	#P1#=ResetControlsValues	#P2#=Inspector/frmLocalUsers/ResetControlsValues	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813021455	#P7#=0	#P8#=15	.
+20=#P0#=mb	#P1#=lvwUsers_ItemClick	#P2#=Inspector/frmLocalUsers/lvwUsers_ItemClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813021433	#P7#=0	#P8#=52	.
+21=#P0#=mb	#P1#=lblRemoveUser_Click	#P2#=Inspector/frmLocalUsers/lblRemoveUser_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813020203	#P7#=0	#P8#=12	.
+22=#P0#=mb	#P1#=cmdSave_Click	#P2#=Inspector/frmLocalUsers/cmdSave_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813020116	#P7#=0	#P8#=11	.
+23=#P0#=mb	#P1#=ComparePasswords	#P2#=Inspector/frmLocalUsers/ComparePasswords	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813020022	#P7#=0	#P8#=20	.
+24=#P0#=mb	#P1#=CancelNewUser	#P2#=Inspector/frmLocalUsers/CancelNewUser	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813015150	#P7#=0	#P8#=-1	.
+25=#P0#=mb	#P1#=imgEditGroups_Click	#P2#=Inspector/frmLocalUsers/imgEditGroups_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813015028	#P7#=0	#P8#=14	.
+26=#P0#=mb	#P1#=imgDeleteUser_Click	#P2#=Inspector/frmLocalUsers/imgDeleteUser_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813014822	#P7#=0	#P8#=29	.
+27=#P0#=mb	#P1#=lblAddUser_Click	#P2#=Inspector/frmLocalUsers/lblAddUser_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813014737	#P7#=0	#P8#=12	.
+28=#P0#=mb	#P1#=imgDeleteMembersGroup_Click	#P2#=Inspector/frmLocalUsers/imgDeleteMembersGroup_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813014515	#P7#=0	#P8#=10	.
+29=#P0#=mb	#P1#=imgAddUser_Click	#P2#=Inspector/frmLocalUsers/imgAddUser_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813014450	#P7#=0	#P8#=20	.
+30=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmLocalUsers/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813014358	#P7#=0	#P8#=13	.
+31=#P0#=mb	#P1#=ValidateTxt	#P2#=Inspector/modHelpers/ValidateTxt	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813011730	#P7#=0	#P8#=12	.
+32=#P0#=mb	#P1#=cmdSave_Click	#P2#=Inspector/frmUserDetails/cmdSave_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813011659	#P7#=0	#P8#=4	.
+33=#P0#=mb	#P1#=ValidateHDDDetails	#P2#=Inspector/modValidate/ValidateHDDDetails	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813011359	#P7#=0	#P8#=16	.
+34=#P0#=mb	#P1#=ValidateUserDetails	#P2#=Inspector/modValidate/ValidateUserDetails	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813010911	#P7#=0	#P8#=5	.
+35=#P0#=mb	#P1#=ValidateWorkstationDetails	#P2#=Inspector/modValidate/ValidateWorkstationDetails	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813010754	#P7#=0	#P8#=16	.
+36=#P0#=mb	#P1#=GetProductType	#P2#=Inspector/swOperatingSystem/GetProductType	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813010511	#P7#=0	#P8#=6	.
+37=#P0#=mb	#P1#=GetWindowsActivationStatus	#P2#=Inspector/modMessages/GetWindowsActivationStatus	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813010246	#P7#=0	#P8#=10	.
+38=#P0#=mb	#P1#=FillOSListView	#P2#=Inspector/frmOS/FillOSListView	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813010000	#P7#=0	#P8#=22	.
+39=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmOS/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813005621	#P7#=0	#P8#=4	.
+40=#P0#=mb	#P1#=FillOSListView	#P2#=Inspector/frmPeriphery/FillOSListView	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813004808	#P7#=0	#P8#=24	.
+41=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmPeriphery/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813004659	#P7#=0	#P8#=4	.
+42=#P0#=mb	#P1#=ValidateRegForm	#P2#=Inspector/frmRegister/ValidateRegForm	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813004606	#P7#=0	#P8#=15	.
+43=#P0#=mb	#P1#=mnuDelete_Click	#P2#=Inspector/frmSharedFolders/mnuDelete_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140817003425	#P7#=0	#P8#=16	.
+44=#P0#=mb	#P1#=lvwServices_ItemClick	#P2#=Inspector/frmServices/lvwServices_ItemClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813003120	#P7#=0	#P8#=50	.
+45=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmServices/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813003029	#P7#=0	#P8#=6	.
+46=#P0#=mb	#P1#=Command3_Click	#P2#=Inspector/frmSharedFoldersEdit/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813002059	#P7#=0	#P8#=3	.
+47=#P0#=mb	#P1#=cmdSave_Click	#P2#=Inspector/frmSharedFoldersEdit/cmdSave_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813002032	#P7#=0	#P8#=38	.
+48=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmSharedFoldersEdit/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813001633	#P7#=0	#P8#=6	.
+49=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmSharedFolders/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813001417	#P7#=0	#P8#=1	.
+50=#P0#=mb	#P1#=FillListViewStartUps	#P2#=Inspector/frmStartUp/FillListViewStartUps	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140813001003	#P7#=0	#P8#=17	.
+51=#P0#=mb	#P1#=mnuDelete_Click	#P2#=Inspector/frmStartUp/mnuDelete_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813000936	#P7#=0	#P8#=4	.
+52=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmStartUp/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140813000847	#P7#=0	#P8#=-1	.
+53=#P0#=mb	#P1#=FillTV	#P2#=Inspector/frmDeviceManager/FillTV	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812233843	#P7#=0	#P8#=17	.
+54=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmApplications/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812233455	#P7#=0	#P8#=6	.
+55=#P0#=mb	#P1#=ChooseOwner	#P2#=Inspector/frmUserDetails/ChooseOwner	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812232513	#P7#=0	#P8#=18	.
+56=#P0#=mb	#P1#=lvHardDisks_DblClick	#P2#=Inspector/frmUserDetails/lvHardDisks_DblClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812232220	#P7#=0	#P8#=4	.
+57=#P0#=mb	#P1#=imgDeleteUser_Click	#P2#=Inspector/frmUserDetails/imgDeleteUser_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812232127	#P7#=0	#P8#=11	.
+58=#P0#=mb	#P1#=Form_Load	#P2#=Inspector/frmUserDetails/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812232039	#P7#=0	#P8#=46	.
+59=#P0#=mb	#P1#=FillDevices	#P2#=Inspector/frmUserDetails/FillDevices	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812231616	#P7#=0	#P8#=18	.
+60=#P0#=mb	#P1#=AddEditDeviceInventaryNo	#P2#=Inspector/frmUserDetails/AddEditDeviceInventaryNo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812231551	#P7#=0	#P8#=17	.
+61=#P0#=mb	#P1#=AddEditSecuritySticker	#P2#=Inspector/frmUserDetails/AddEditSecuritySticker	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812231512	#P7#=0	#P8#=16	.
+62=#P0#=mb	#P1#=ValidateUserData	#P2#=Inspector/frmUserDetails/ValidateUserData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812231211	#P7#=0	#P8#=10	.
+63=#P0#=mb	#P1#=ValidateWorkstationData	#P2#=Inspector/frmUserDetails/ValidateWorkstationData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812231146	#P7#=0	#P8#=11	.
+64=#P0#=mb	#P1#=cmdClear_Click	#P2#=Inspector/frmUserServices/cmdClear_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812220946	#P7#=0	#P8#=-1	.
+65=#P0#=mb	#P1#=Initialize	#P2#=Inspector/frmUserServices/Initialize	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812220853	#P7#=0	#P8#=4	.
+66=#P0#=mb	#P1#=MDIForm_Resize	#P2#=Inspector/MDIMain/MDIForm_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140812220203	#P7#=0	#P8#=7	.
+67=#P0#=mb	#P1#=GetFilePathWithOutParams	#P2#=Inspector/modHelpers/GetFilePathWithOutParams	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812201308	#P7#=0	#P8#=17	.
+68=#P0#=mb	#P1#=GetAssocIcon	#P2#=Inspector/modIcons/GetAssocIcon	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140812201045	#P7#=0	#P8#=8	.
+[NodeColors]
+1=#P0#=Inspector/modMain	#P1#=16711680	.
+2=#P0#=Inspector/hwCDROM	#P1#=16711680	.
+3=#P0#=Inspector/hwCPU	#P1#=16711680	.
+4=#P0#=Inspector/hwHardDisks	#P1#=16711680	.
+5=#P0#=Inspector/hwHID	#P1#=16711680	.
+6=#P0#=Inspector/hwMemory	#P1#=16711680	.
+7=#P0#=Inspector/hwMonitor	#P1#=16711680	.
+8=#P0#=Inspector/hwMotherBoard	#P1#=16711680	.
+9=#P0#=Inspector/hwNetwork	#P1#=16711680	.
+10=#P0#=Inspector/hwPrinter	#P1#=16711680	.
+11=#P0#=Inspector/hwVideo	#P1#=16711680	.
+12=#P0#=Inspector/swApplications	#P1#=16711680	.
+13=#P0#=Inspector/swServices	#P1#=16711680	.
+14=#P0#=Inspector/swLocalGroups	#P1#=16711680	.
+15=#P0#=Inspector/swLocalUsers	#P1#=16711680	.
+16=#P0#=Inspector/swSharedFolders	#P1#=16711680	.
+17=#P0#=Inspector/swStartUp	#P1#=16711680	.
+18=#P0#=Inspector/swOperatingSystem	#P1#=16711680	.

@@ -1,0 +1,22 @@
+Motherboard : MB Manufacturer + MB model
+mb: serial nuber
+motherboard : chassis type
+mb: chassis serial number
+cpu : model + Architecture
+cpu slot
+memory slots
+max memory
+bios
+
+
+
+HARD DISK
+
+Model
+Family
+Interface
+Mode
+Serial Number
+Real size
+Size
+
